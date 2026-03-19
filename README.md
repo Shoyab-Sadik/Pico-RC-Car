@@ -2,7 +2,6 @@
 
 **Author:** M. Shoyab Sadik  
 **Organization:** Pico Robotics  
-**Contact:** 01575317604  
 
 ---
 
@@ -113,6 +112,9 @@ This project is an **Arduino-based RC Car** controlled via Serial commands. The 
 
 ---
 
-## Author  
+## Author / Contact
 
 **M. Shoyab Sadik** – Pico Robotics  
+
+- [LinkedIn Profile](https://www.linkedin.com/in/your-profile/)  
+- Contact Number: 01575317604  
